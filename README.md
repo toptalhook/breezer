@@ -29,7 +29,7 @@ It is an NFT market where you can create and buy IOTEX-based ERC721-implemented 
 
 ## Steps to start the project ->
 
-- git clone `https://github.com/Sylvester-dev/breezer.git`
+- git clone `https://github.com/toptalhook/breezer.git`
 - `cd /frontend`
 - `yarn install`
 - `yarn start`
